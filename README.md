@@ -48,7 +48,7 @@ A Python-based stock analysis and prediction tool for the S&P 100 index (^OEX). 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR-USERNAME/sp100-stock-predictor.git
+git clone https://github.com/Uzair458/sp100-stock-predictor.git
 cd sp100-stock-predictor
 ```
 
